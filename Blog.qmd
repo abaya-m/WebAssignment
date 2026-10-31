@@ -1,5 +1,7 @@
 ---
 title: "Blog Page"
+listing:
+  contents: posts 
 ---
 
 Assignment 1
