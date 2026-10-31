@@ -6,8 +6,4 @@ author:
     affiliation: Department of Economics, University of Winnipeg
 ---
 
-<iframe 
-  src="gecon_7201_assignment_1_final.pdf"
-  width="100%"
-  height="800px">
-</iframe>
+[Download Assignment 1 (PDF)](gecon_7201_assignment_1_final.pdf)
