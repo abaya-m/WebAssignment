@@ -1,7 +1,13 @@
 ---
 title: "Assignment 1"
-Description: Assignment 1
-author: 
+description: Assignment 1
+author:
   - name: Meagan Abaya
-  - affiliation: Department of Economics, Univeristy of Winnipeg
+    affiliation: Department of Economics, University of Winnipeg
 ---
+
+<iframe 
+  src="gecon_7201_assignment_1_final.pdf"
+  width="100%"
+  height="800px">
+</iframe>
