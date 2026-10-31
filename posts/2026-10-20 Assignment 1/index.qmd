@@ -1,0 +1,7 @@
+---
+title: "Assignment 1"
+Description: Assignment 1
+author: 
+  - name: Meagan Abaya
+  - affiliation: Department of Economics, Univeristy of Winnipeg
+---
