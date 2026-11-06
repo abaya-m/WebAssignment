@@ -5,3 +5,5 @@ author:
   - name: Meagan Abaya
     affiliation: Department of Economics, University of Winnipeg
 ---
+
+[Download Assignment 2 (PDF)](Assignment_2_Meagan_final.pdf)
